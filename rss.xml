@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[rick tham]]></title>
         <description><![CDATA[rick tham]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rick-tham/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 18:45:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 18:45:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rick-tham/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a16a4-80c4-4082-a720-54fcdd20b5ea.jpg">]]></description>
+            <link>https://thegrid.ai/rick-tham/9bc5faa1-d250-4730-ba1f-970af32d7146/index.html</link>
+            <guid isPermaLink="false">9bc5faa1-d250-4730-ba1f-970af32d7146</guid>
+            <pubDate>Sun, 31 Jan 2016 18:45:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b00a5d2c-b64c-484f-b3d8-59f2a9e7ccce.jpg">]]></description>
-            <link>undefineddb647d36-2868-4585-9a77-febb796a030b/index.html</link>
+            <link>https://thegrid.ai/rick-tham/db647d36-2868-4585-9a77-febb796a030b/index.html</link>
             <guid isPermaLink="false">db647d36-2868-4585-9a77-febb796a030b</guid>
             <pubDate>Sun, 31 Jan 2016 18:45:50 GMT</pubDate>
         </item>
